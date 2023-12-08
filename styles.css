@@ -1,0 +1,28 @@
+
+button {
+    margin: 5px;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#box {
+    width: 200px;
+    height: 150px;
+    background-color: lightblue;
+    border: 1px solid blue;
+    text-align: center;
+    line-height: 150px;
+    position: relative;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
